@@ -5,5 +5,5 @@ This project discusses whether a person’s income is greater than (or less than
 
 
 ## Skill
-Python: Pandas, Numpy, scikit-learn
+Python: Pandas, Numpy, scikit-learn, matplotlib
 
